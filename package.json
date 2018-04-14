@@ -15,7 +15,7 @@
     "redux": "^3.7.2",
     "redux-thunk": "^2.2.0"
   },
-  "proxy": "http://localhost:8081",
+  "proxy": "https://infinite-headland-33778.herokuapp.com/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
